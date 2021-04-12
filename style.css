@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    text-align: center;
+   padding-left: 400px ;
+    margin-bottom: 50px;
+    margin-top: 50px;  
+}
+.card{
+    height:60%;
+
+    
+}
+h2{padding-left: 550px;
+   
+    font-size: 12px;
+    text-align: center;
+    color:rgb(45, 45, 107) 
+}
+*{
+	padding: 0px;
+	box-sizing: border-box;
+	margin: 0px;
+}
+
+
+
